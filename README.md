@@ -10,7 +10,7 @@
 
 小程序首页如下：
 
-![image-20220823111052016](C:\Users\hqh20\AppData\Roaming\Typora\typora-user-images\image-20220823111052016.png)
+![image-20220823111052016](微信图片_20220823111635.jpg)
 
 
 
